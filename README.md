@@ -7,3 +7,7 @@
     
     // 1mW = 20 * Power_LSB(mA) = 20 * 0.02mA
     ina219_powerMultiplier_mW = 0.4;
+
+
+
+    测速提交新代码
